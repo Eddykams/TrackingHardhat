@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+/* styles.css */
+
+nav {
+  background-color: #9b8d8dae;
+  padding: 15px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  margin-right: 20px;
+  padding: 10px;
+}
+
+li:last-child {
+  margin-right: 0;
+}
+
+a {
+  color: #1d1c1b;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 10px;
+}
+
+a:hover {
+  background-color: #cf3e3e;
+}
